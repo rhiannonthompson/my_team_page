@@ -100,7 +100,7 @@ h2,
   display: grid;
   grid-template-columns: repeat(3, minmax(238px, 3fr));
   grid-template-rows: repeat(2, minmax(347px, 3fr));
-  grid-column-gap: 20px;
+  grid-column-gap: 30px;
   grid-row-gap: 0px;
   max-width: 980px;
   margin: 0 auto;
